@@ -19,7 +19,7 @@ function shakeMagic8Ball() {
         case 0:
             answer = "Yes";
             image = "imgs/yes.webp";
-            color = "text-success";
+            color = "text-success"
             break;
         case 1:
             answer = "No";
